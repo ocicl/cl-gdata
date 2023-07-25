@@ -1,0 +1,10 @@
+* cl-gdata
+
+Access to Google services from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lokedhs/cl-gdata.git   |
+| commit  | 3ca1ed6  |
+| systems | cl-gdata |
+|---------+-------------------------------------------|
+
